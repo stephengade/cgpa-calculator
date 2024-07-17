@@ -1,7 +1,7 @@
 import React from 'react';
 
 const ShareTweet = () => {
-    const tweetContent = "Everyone should try out this amazing GPA and CGPA calculator by @stephen_olgade! #cgpa Thank you for creating it!";
+    const tweetContent = "Everyone should try out this amazing GPA and CGPA calculator (https://my-cgpa.vercel.app) by @stephen_olgade!  #cgpa Thank you for creating it!";
 
 
   const tweetNow = () => {
@@ -20,3 +20,17 @@ const ShareTweet = () => {
 };
 
 export default ShareTweet;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
