@@ -10,7 +10,7 @@ const inter = Syne({
 });
 
 
-const baseUrl: string = process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000/"
+const baseUrl: string = process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000"
 
 
 export const metadata: Metadata = {
